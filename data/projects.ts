@@ -272,7 +272,7 @@ export const projects: Project[] = [
       github: "https://github.com/raghad-karaman/AspNot"
     },
     featured: false,
-    year: "2024 "
+    year: "2024"
   }
 ];
 

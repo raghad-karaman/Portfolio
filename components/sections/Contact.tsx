@@ -16,7 +16,7 @@ export default function Contact() {
           </div>
           <div>
             <p className="max-w-[46ch] text-steel dark:text-dark-steel">
-              Open to full‑stack, backend, and AI/ML‑leaning roles — remote or in Türkiye. If you've
+            Open to remote full-stack, backend, and AI/ML roles. If you've
               got a problem that needs a working system, not just a mockup, I'd like to hear about
               it. The fastest way to reach me is email — I'll usually reply within a day or two.
             </p>
