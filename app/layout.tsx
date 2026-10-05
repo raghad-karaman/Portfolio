@@ -3,7 +3,7 @@ import "./globals.css";
 import Header from "@/components/layout/Header";
 import Footer from "@/components/layout/Footer";
 
-const siteUrl = "https://ragadkaraman.dev";
+const siteUrl = "https://ragadkaraman.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

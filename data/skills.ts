@@ -9,7 +9,7 @@ export const skillGroups = [
   },
   {
     label: "Backend",
-    items: ["FastAPI", "ASP.NET Core", "Laravel", "REST API"]
+    items: ["FastAPI", "ASP.NET Core", "ASP.NET MVC", "Entity Framework", "Laravel", "REST API"]
   },
   {
     label: "Database",
